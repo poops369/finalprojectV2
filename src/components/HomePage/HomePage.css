@@ -1,0 +1,73 @@
+.Homepage-img {
+    /* width: 100%;
+    height: 550px; */
+    background-size: cover;
+    margin: 0;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+.p1 {
+    text-align: center;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0 0 1em 0;
+}
+
+.inner-text {
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 24px;
+    font-size: 15px;
+    letter-spacing: 0px;
+    background-color: #ececec;
+    height: 300px;
+    padding: 100px 280px;
+    padding-top: 0px;
+}
+
+.title {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    font-size: 28px;
+    letter-spacing: 2px;
+    margin: 0;
+    background-color: #ececec;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.wedding {
+    border-radius: 50%;
+    height: 200px;
+}
+.special-title1 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    color: #000000;
+    text-align: center;
+}
+.social {
+    border-radius: 50%;
+    height: 200px;
+}
+.CORPORATE {
+    border-radius: 50%;
+    height: 200px;
+}
+.Bubbles {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
